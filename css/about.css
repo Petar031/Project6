@@ -1,0 +1,44 @@
+.navbar{
+    padding:10px;
+}
+.navbar a {
+    font-weight:bolder;
+}
+
+h4{
+    padding-top:30px;
+}
+
+footer{
+    margin-top:30px;
+    background-color:beige;
+}
+
+.flex-center{
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+
+
+footer a {
+    padding:5px;
+    margin-top:30px;
+}
+
+footer p {
+    text-align:center;
+    margin-top:10px;
+}
+
+.footer-socials .fa-facebook{
+    color:blue;
+}
+
+.footer-socials .fa-twitter{
+    color:skyblue;
+}
+
+.footer-socials .fa-instagram{
+    color:red;
+}

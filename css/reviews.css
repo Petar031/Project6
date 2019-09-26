@@ -1,0 +1,63 @@
+.navbar{
+    padding:10px;
+}
+.navbar a {
+    font-weight:bolder;
+}
+
+.container-fluid .jumbotron{
+          margin-left:15%;
+          margin-right:15%;
+          margin-top:100px;
+          margin-bottom: 90px;
+}
+.review-block {
+    margin-left:0%;
+}
+.review-block{
+	background-color:#FAFAFA;
+	border:1px solid #EFEFEF;
+	padding:15px;
+	border-radius:3px;
+	margin-bottom:15px;
+}
+.review-block-name{
+	font-size:12px;
+	margin:10px 0;
+}
+.review-block-date{
+	font-size:12px;
+}
+
+.flex-center{
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+
+footer{
+    margin-top:30px;
+    background-color:beige;
+}
+
+footer a {
+    padding:5px;
+    margin-top:30px;
+}
+
+footer p {
+    text-align:center;
+    margin-top:10px;
+}
+
+.footer-socials .fa-facebook{
+    color:blue;
+}
+
+.footer-socials .fa-twitter{
+    color:skyblue;
+}
+
+.footer-socials .fa-instagram{
+    color:red;
+}
